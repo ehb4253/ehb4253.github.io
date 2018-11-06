@@ -8,8 +8,7 @@ name: eh blu soe
 # Short bio or description (displayed in the header)
 description: welcome to my page
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/ehb4253-now/master/images/ehb4253-logo.png
-
+avatar: /images/icon.png
 #
 # Flags below are optional
 #
