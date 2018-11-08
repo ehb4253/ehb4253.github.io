@@ -9,3 +9,5 @@ In fall i was take pictures and it was really fun, fall is my favoite.
 
 ![eh bue fall 2](/images/IMG_0018.jpeg)
 
+mostly gilr love to take picture, takeing picture was fun too.
+
