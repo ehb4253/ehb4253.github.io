@@ -3,7 +3,7 @@ layout: post
 title: fall pictures
 ----
 
-In fall i was take pictures and it was really fun, fall is my favoite.
+In fall I was take pictures and it was really fun, fall is my favoite.
 
 ![eh bue fall](/images/IMG_0003.jpeg)
 
