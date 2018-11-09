@@ -3,9 +3,5 @@ layout: post
 title: me and sport
 ----
 
-bbbb
-![eh bue fall](/images/.jpeg)
-
-![eh bue fall 2](/images/.jpeg)
-
-bbb
+i love to play soccer even though i am not good at it.
+![eh bue sport](/images/.jpeg)
