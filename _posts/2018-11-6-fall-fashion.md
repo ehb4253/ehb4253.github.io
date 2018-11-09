@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fall pictures
-----
+---
 
 In fall I was take pictures and it was really fun, fall is my favoite.
 
